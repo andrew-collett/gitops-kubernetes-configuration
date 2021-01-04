@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: webserver-simple
-          image: 868143226472.dkr.ecr.eu-west-1.amazonaws.com/tolrendor-software/simple-web-app:eced1fd
+          image: 868143226472.dkr.ecr.eu-west-1.amazonaws.com/tolrendor-software/simple-web-app:7c12193
           ports:
             - containerPort: 8080
